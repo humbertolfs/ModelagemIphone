@@ -1,16 +1,18 @@
-# Iphone Project
+## Getting Started
 
-## Diagrama
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-Aqui está o diagrama utilizado no projeto:
+## Folder Structure
 
-![Diagrama](diagrams/Classe UML.png)
+The workspace contains two folders by default, where:
 
-## Descrição
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-Este projeto é uma aplicação de modelagem de um iPhone. Ele inclui as seguintes funcionalidades:
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-- Tela inicial com ícones de aplicativos
-- Aplicativos pré-instalados, como câmera, galeria de fotos, navegador, etc.
-- Possibilidade de adicionar e remover aplicativos
-- Suporte a notificações e mensagens
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
