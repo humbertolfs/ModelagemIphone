@@ -4,7 +4,7 @@
 
 Aqui está o diagrama utilizado no projeto:
 
-![Diagrama](./diagrams/Classe UML.png)
+<img src="/diagrams/Classe UML.png">
 
 ## Descrição
 
